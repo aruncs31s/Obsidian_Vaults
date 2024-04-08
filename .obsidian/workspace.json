@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "0279117b027881bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d4461045f126cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd32ed6ab8309cb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine Learning/Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4b40682883e56dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine Learning/Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7ec172f748f6887",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Linux/Obsidian/latexsheet-a4.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ddec39d7fd82144",
+    "type": "split",
+    "children": [
+      {
+        "id": "2160f996aa391e25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9179a00d3ec2eef7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4a259c42e0cde4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72048bc6b5e8b771",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "940a11775f0898bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a497560a0f2e93b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961b4dca25ff671d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Machine Learning/Neural Networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caf863fdc5647376",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/Machine Learning/Neural Networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e330890e865d7dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9ef6e385a097bd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/Machine Learning/Neural Networks.md"
+              }
+            }
+          },
+          {
+            "id": "b8662d530ac8a206",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f80e72a46818d26a",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "4b40682883e56dbe",
+  "lastOpenFiles": [
+    "Linux/Obsidian/latexsheet-a4.pdf",
+    "BTech/ElectroMagnetics/Matthew N.O. Sadiku - Elements of Electromagnetics-Oxford University Press, USA (2014).pdf",
+    "AI/Machine Learning/Neural Networks/Codes/a.out",
+    "AI/Machine Learning/Neural Networks/Codes/k.c",
+    "AI/Machine Learning/Neural Networks.md",
+    "AI/Machine Learning/Neural Networks/Codes/np_dot.py",
+    "python/python.md",
+    "Projects/Projects.md",
+    "AI/Machine Learning/Machine Learning.md",
+    "AI/Machine Learning/Neural Networks/Codes/list_of_list_of_list_2.py",
+    "AI/Machine Learning/Neural Networks/Codes/list_of_list_of_list.py",
+    "Linux/Obsidian/Obsidian.md",
+    "1,2],[1,2,3],[1,3,4,5.md",
+    "AI/Machine Learning/Neural Networks/Codes/program_3_test.py",
+    "AI/Machine Learning/Neural Networks/Codes/simplified_program_2.py",
+    "AI/Machine Learning/Neural Networks/Codes/program_2.py",
+    "AI/Machine Learning/Neural Networks/canvases/Neural Network With 3 Weights.canvas",
+    "AI/Machine Learning/Neural Networks/canvases",
+    "AI/Machine Learning/Neural Networks/Neural Network With 3 Weights.canvas",
+    "Untitled.md",
+    "README.md",
+    "AI/Machine Learning/Deep Learning.md",
+    "python/numpy.md",
+    "AI/Machine Learning/Neural Networks/Numpy.md",
+    "Linux/Obsidian/canvas.md",
+    "AI/Intel_neural_compute_stick_2.md",
+    "AI/Untitled.md",
+    "BTech/ElectroMagnetics/Module 3.md",
+    "BTech/ElectroMagnetics/Module3/Untitled.md",
+    "BTech/Communication_LAB/Expt_1.md",
+    "BTech/ElectroMagnetics/EMT.md",
+    "Linux/Git.md",
+    "Data Structures/Linked List.md",
+    "Linux/Linux.md",
+    "Linux/Linux/Linux.md",
+    "Linux/Neovim.md",
+    "Linux/Usefull Apps.md",
+    "Linux/Fixes.md",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
+    "Projects/Iot_based_smart_energy_managment_system/Untitled.canvas",
+    "BTech/Communication_LAB/expt1_graph.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
+    "Projects/Ethical Hacking/Pasted image 20240402221653.png",
+    "Information Theory And Coding/Pasted image 20240402212500.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240329055534.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/project_block_diagram.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/esp32_pinout.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Relay-pinout.webp",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240328225646.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/EnergyMonitoring.png.png",
+    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas"
+  ]
+}

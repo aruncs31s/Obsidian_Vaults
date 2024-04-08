@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"b43ffa76bef13a8c","type":"text","text":"#### Module 3","x":-245,"y":140,"width":250,"height":60},
+		{"id":"30a45724ba70ed86","type":"text","text":"","x":130,"y":140,"width":250,"height":60},
+		{"id":"bdb21bbfa5d3d801","type":"text","text":"#### Module 1","x":-245,"y":-220,"width":250,"height":60},
+		{"id":"0f7335d110102ca1","type":"text","text":"#### Module 2","x":130,"y":-220,"width":250,"height":60},
+		{"id":"45362de32e579179","type":"text","text":"### Embedded System\n","x":-60,"y":-40,"width":250,"height":80},
+		{"id":"0f2bc33a925808bb","type":"file","file":"Module 1.md","x":-351,"y":-730,"width":400,"height":400},
+		{"id":"2130f6ca90f56e4a","type":"file","file":"Module 2.md","x":353,"y":-730,"width":400,"height":400},
+		{"id":"2819958c2e06aa26","type":"file","file":"Files/Module 2/Memory.md","x":920,"y":-330,"width":400,"height":400},
+		{"id":"b8d4f6f637ace7f6","x":920,"y":-730,"width":250,"height":60,"type":"text","text":"##### I/O\n"},
+		{"id":"314470745deb3a83","x":920,"y":-530,"width":250,"height":60,"type":"text","text":"##### Communication"},
+		{"id":"47374b9b69c29a92","x":1320,"y":-1200,"width":400,"height":400,"type":"file","file":"Files/Module 2/I_O Devices.md"},
+		{"id":"4fa2fe3a4196b677","x":2040,"y":320,"width":400,"height":400,"type":"file","file":"Files/Module 2/Serial Comm.md"},
+		{"id":"4d14c9d8635f2f6d","x":2400,"y":-240,"width":400,"height":400,"type":"file","file":"Files/Module 2/I2C.md"},
+		{"id":"f004e3e875750795","type":"file","file":"Files/Module 2/HDLC.md","x":1680,"y":-440,"width":400,"height":400},
+		{"id":"636b7dacc8e8fcf6","x":2800,"y":-700,"width":400,"height":400,"type":"file","file":"Files/Module 2/USB.md"},
+		{"id":"e1a6fbe5383a3aac","x":2080,"y":-1000,"width":400,"height":400,"type":"file","file":"Files/Module 2/SPI Serial Peripheral Interface.md"}
+	],
+	"edges":[
+		{"id":"56af7e031ba5b952","fromNode":"45362de32e579179","fromSide":"top","toNode":"bdb21bbfa5d3d801","toSide":"bottom"},
+		{"id":"020cc251a7084096","fromNode":"45362de32e579179","fromSide":"bottom","toNode":"b43ffa76bef13a8c","toSide":"top"},
+		{"id":"bca54a32f707161b","fromNode":"45362de32e579179","fromSide":"bottom","toNode":"30a45724ba70ed86","toSide":"top"},
+		{"id":"488588d5151c6987","fromNode":"bdb21bbfa5d3d801","fromSide":"top","toNode":"0f2bc33a925808bb","toSide":"bottom"},
+		{"id":"fa8814b7ff08a61b","fromNode":"0f7335d110102ca1","fromSide":"top","toNode":"2130f6ca90f56e4a","toSide":"bottom"},
+		{"id":"2324f43191c786f9","fromNode":"2130f6ca90f56e4a","fromSide":"right","toNode":"2819958c2e06aa26","toSide":"left"},
+		{"id":"efbfadc26a1aa808","fromNode":"2130f6ca90f56e4a","fromSide":"right","toNode":"314470745deb3a83","toSide":"left"},
+		{"id":"9c31d1c25537c27a","fromNode":"314470745deb3a83","fromSide":"right","toNode":"f004e3e875750795","toSide":"left"},
+		{"id":"5ba05ccbe9e1a1e9","fromNode":"314470745deb3a83","fromSide":"right","toNode":"4fa2fe3a4196b677","toSide":"left"},
+		{"id":"15bce4ca8640de21","fromNode":"314470745deb3a83","fromSide":"right","toNode":"636b7dacc8e8fcf6","toSide":"left"},
+		{"id":"9586485517ef8d09","fromNode":"314470745deb3a83","fromSide":"right","toNode":"e1a6fbe5383a3aac","toSide":"left"},
+		{"id":"c0290cb9c84f69b5","fromNode":"2130f6ca90f56e4a","fromSide":"right","toNode":"b8d4f6f637ace7f6","toSide":"left"},
+		{"id":"2e8f3645de8a4812","fromNode":"b8d4f6f637ace7f6","fromSide":"right","toNode":"47374b9b69c29a92","toSide":"left"},
+		{"id":"19ff5ea570453dc3","fromNode":"314470745deb3a83","fromSide":"right","toNode":"4d14c9d8635f2f6d","toSide":"left"}
+	]
+}

@@ -1,8 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#00e1ff",
   "cssTheme": "Obsidian Nord",
   "textFontFamily": "CaskaydiaCove Nerd Font",
   "interfaceFontFamily": "CaskaydiaCove Nerd Font",
-  "showViewHeader": true,
-  "monospaceFontFamily": "JetBrains Mono"
+  "showViewHeader": false,
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

@@ -1,3 +1,9 @@
+# Python
+## Modules
+
+- [Numpy](./numpy.md)
+- [matplotlib](./matplotlib.md)
+## Contents
 
 - [Zip](#zip)
 - [List](#list)
@@ -43,7 +49,24 @@ print(list(zip(weights, biases)))
 	- - In Python 3, `zip(weights, biases)` returns an iterator that aggregates elements from the `weights` list and the `biases` list in tuples
 
 #### List
+- [List](#list)
 - [Shapes](#shapes)
+
+#### List
+[Source](https://www.w3schools.com/python/python_lists.asp)
+- [Example](#list%20example)
+- [Finding The length](#finding%20the%20length)
+
+*Lists are used to store multiple items in a single variable.*
+###### List Example
+```python
+someList = [1,2,3]
+print(someList)
+```
+######  Finding the length
+```python
+print(len(someList))
+```
 ##### Shapes
 
 | Name In python       | Name of the shape | Dimension | Type   | Eg                           | Shape   |

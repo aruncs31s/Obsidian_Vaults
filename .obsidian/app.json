@@ -1,8 +1,18 @@
 {
-  "vimMode": false,
+  "vimMode": true,
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
-  "autoPairMarkdown": false,
-  "propertiesInDocument": "source"
+  "autoPairMarkdown": true,
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview",
+  "focusNewTab": true,
+  "livePreview": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": null,
+  "showInlineTitle": false
 }

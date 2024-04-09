@@ -1,5 +1,5 @@
-- [[Module 1]]
-- [[Module 2]]
+- [[Embedded Systems/Module 1]]
+- [[Embedded Systems/Module 2]]
 - [[Embedded Systems/Module 3]]
 - [[Module 4]]
 

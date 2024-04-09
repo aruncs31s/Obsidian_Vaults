@@ -11,3 +11,5 @@ tags: []
 - [ ] [[Expt_4]]
 - [ ] [[Expt_5]]
 
+#### Mannuel
+![[BTech/Communication_LAB/Files/LAB manual full.pdf|LAB manual full]]

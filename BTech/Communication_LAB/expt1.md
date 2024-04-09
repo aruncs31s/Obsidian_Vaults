@@ -121,6 +121,8 @@ Notes -
 ```
 
 
+#### Output
+![[BTech/Communication_LAB/Files/expt1_graph.png]]
 
 
 

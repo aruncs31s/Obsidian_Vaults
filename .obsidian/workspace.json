@@ -1,40 +1,96 @@
 {
   "main": {
-    "id": "0279117b027881bb",
+    "id": "ed666be537737d9f",
     "type": "split",
     "children": [
       {
-        "id": "75d4461045f126cc",
+        "id": "5d2680cc4609631e",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd32ed6ab8309cb",
+            "id": "006dd2c7101a457d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine Learning/Neural Networks.md",
-                "mode": "source",
-                "source": false
+                "file": "BTech/ElectroMagnetics/Module 1.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "4b40682883e56dbe",
+            "id": "d949df3905e7911a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "AI/Machine Learning/Neural Networks.md",
                 "mode": "source",
-                "source": false
+                "backlinks": true,
+                "source": true
               }
             }
           },
           {
-            "id": "b7ec172f748f6887",
+            "id": "672eaca26c9ab8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/matlibplot.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c0bca4bfb6688614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/numpy.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72e5e96544e63ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BTech/ElectroMagnetics/Module 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9259aeb43471ad18",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BTech/ElectroMagnetics/EMT.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a59d78d10af089f4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -44,21 +100,21 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9ddec39d7fd82144",
+    "id": "6fc2135884b351c9",
     "type": "split",
     "children": [
       {
-        "id": "2160f996aa391e25",
+        "id": "6339c8e33bd26bca",
         "type": "tabs",
         "children": [
           {
-            "id": "9179a00d3ec2eef7",
+            "id": "3042ce921eae4125",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +124,7 @@
             }
           },
           {
-            "id": "a4a259c42e0cde4c",
+            "id": "942c6adc38702461",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +139,7 @@
             }
           },
           {
-            "id": "72048bc6b5e8b771",
+            "id": "566fdb82fd5ae10d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,24 +150,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "940a11775f0898bd",
+    "id": "e670cc36c194f8ef",
     "type": "split",
     "children": [
       {
-        "id": "0a497560a0f2e93b",
+        "id": "c4b4efbbfcbb9c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "961b4dca25ff671d",
+            "id": "4a51467cec075cff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "adfacafa5f9c0785",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Machine Learning/Neural Networks.md",
+                "file": "BTech/ElectroMagnetics/EMT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,19 +186,19 @@
             }
           },
           {
-            "id": "caf863fdc5647376",
+            "id": "482258924b932386",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Machine Learning/Neural Networks.md",
+                "file": "BTech/ElectroMagnetics/EMT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8e330890e865d7dd",
+            "id": "86b1921de21053f1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,103 +209,83 @@
             }
           },
           {
-            "id": "a9ef6e385a097bd4",
+            "id": "4c3b02f8e850efd1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine Learning/Neural Networks.md"
+                "file": "BTech/ElectroMagnetics/EMT.md"
               }
             }
-          },
-          {
-            "id": "b8662d530ac8a206",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f80e72a46818d26a",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4b40682883e56dbe",
+  "active": "9259aeb43471ad18",
   "lastOpenFiles": [
-    "Linux/Obsidian/latexsheet-a4.pdf",
-    "BTech/ElectroMagnetics/Matthew N.O. Sadiku - Elements of Electromagnetics-Oxford University Press, USA (2014).pdf",
-    "AI/Machine Learning/Neural Networks/Codes/a.out",
-    "AI/Machine Learning/Neural Networks/Codes/k.c",
-    "AI/Machine Learning/Neural Networks.md",
-    "AI/Machine Learning/Neural Networks/Codes/np_dot.py",
-    "python/python.md",
-    "Projects/Projects.md",
-    "AI/Machine Learning/Machine Learning.md",
-    "AI/Machine Learning/Neural Networks/Codes/list_of_list_of_list_2.py",
-    "AI/Machine Learning/Neural Networks/Codes/list_of_list_of_list.py",
-    "Linux/Obsidian/Obsidian.md",
-    "1,2],[1,2,3],[1,3,4,5.md",
-    "AI/Machine Learning/Neural Networks/Codes/program_3_test.py",
-    "AI/Machine Learning/Neural Networks/Codes/simplified_program_2.py",
-    "AI/Machine Learning/Neural Networks/Codes/program_2.py",
-    "AI/Machine Learning/Neural Networks/canvases/Neural Network With 3 Weights.canvas",
-    "AI/Machine Learning/Neural Networks/canvases",
-    "AI/Machine Learning/Neural Networks/Neural Network With 3 Weights.canvas",
-    "Untitled.md",
-    "README.md",
-    "AI/Machine Learning/Deep Learning.md",
-    "python/numpy.md",
-    "AI/Machine Learning/Neural Networks/Numpy.md",
-    "Linux/Obsidian/canvas.md",
-    "AI/Intel_neural_compute_stick_2.md",
-    "AI/Untitled.md",
-    "BTech/ElectroMagnetics/Module 3.md",
-    "BTech/ElectroMagnetics/Module3/Untitled.md",
-    "BTech/Communication_LAB/Expt_1.md",
+    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_esp32/Solar_tracking_using_esp32.ino",
+    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
+    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
+    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.ino",
+    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
+    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_esp32",
+    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino",
+    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.ino",
+    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.cpp",
+    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.c_",
+    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.c",
+    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32/multiThredingESP32.ino",
+    "Projects/Iot_based_smart_energy_management_system/src/multiThreding/test.c",
+    "Projects/Iot_based_smart_energy_management_system/src/multiThreding/multiThredBuGFGWithoutSleep",
+    "Projects/Iot_based_smart_energy_management_system/README.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/templates/Template1.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Test/playground.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Solar Tracking/Solar Tracking.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/ZMPT101B.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/Servo Motor.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/SCT 013.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/Relay Module.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/PIR Sensor.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/LDR Sensor.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Iot Based Smart Energy Management System.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/project_block_diagram.png",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/esp32_pinout.png",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Relay-pinout.webp",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240329055534.png",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240328225646.png",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/EnergyMonitoring.png.png",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Energy Monitoring/Monitoring Server.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Energy Monitoring/Energy Monitoring.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Energy Managment/Energy Management.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/ESP32/esp32.md",
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/ESP32/analog_interfacing.md",
+    "Iot_based_smart_energy_managment_system/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
+    "Iot_based_smart_energy_managment_system/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
+    "Iot_based_smart_energy_managment_system/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
+    "Iot_based_smart_energy_managment_system/README.md",
+    "BTech/Communication_LAB/tempLatterCheck.md",
     "BTech/ElectroMagnetics/EMT.md",
-    "Linux/Git.md",
-    "Data Structures/Linked List.md",
-    "Linux/Linux.md",
-    "Linux/Linux/Linux.md",
-    "Linux/Neovim.md",
-    "Linux/Usefull Apps.md",
-    "Linux/Fixes.md",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
-    "Projects/Iot_based_smart_energy_managment_system/Untitled.canvas",
-    "BTech/Communication_LAB/expt1_graph.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
-    "Projects/Ethical Hacking/Pasted image 20240402221653.png",
-    "Information Theory And Coding/Pasted image 20240402212500.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240329055534.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/project_block_diagram.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/esp32_pinout.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Relay-pinout.webp",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240328225646.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/EnergyMonitoring.png.png",
-    "Projects/Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas"
+    "AI/Machine Learning/Pasted image 20240409020238.png"
   ]
 }

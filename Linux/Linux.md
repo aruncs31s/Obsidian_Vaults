@@ -7,7 +7,7 @@ tags: []
 - [[Tui Apps]]
 - [[Usefull Apps]]
 - [[Fixes]]
-
+- [[Needs to remove]]
 ### **Usefull Apps**
 
 1. mullvad vpn: Most based VPN(when tor is being slow)

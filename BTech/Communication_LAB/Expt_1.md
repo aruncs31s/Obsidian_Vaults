@@ -1,6 +1,6 @@
 ### Bpsk
 
-[[LAB manual full.pdf]]
+[[BTech/Communication_LAB/Files/LAB manual full.pdf]]
 
 
 *BPSK stands for Binary Phase Shift Keying. It's a type of digital modulation technique in which a carrier signal is modulated to convey information. The carrier signal's phase is changed between two discrete states to represent the binary data being transmitted. This technique is used in various communication systems, such as wireless and satellite communication*
@@ -75,7 +75,7 @@ grid on;
 ```
 
 #output
-![output](expt1_graph.png)
+![output](BTech/Communication_LAB/Files/expt1_graph.png)
 
 #steps
 - Req { msg_signal};

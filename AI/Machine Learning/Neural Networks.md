@@ -1,15 +1,13 @@
+# Neural Networks
+## Contents
+1. [Neurons, Weights and Biases](#neurons%20,weights%20and%20biases)
+2. Tools Used
+	1. [Python](/python/python)
+	2. [Numpy](numpy.md)
+ 
+## Neurons ,Weights and Biases 
 
-## Neural Network
-##### Tools Used
-1. [Python](/python/python)
-2. [Numpy](/python/numpy.md)
-### Contents
-1. [Simple Examples](#simple%20examples)
-	- [Dot Product](#dot%20product)
-
-#### Simple examples
-##### Example 1
-*Simple code containing only one neuron*
+1. Simple code containing only one neuron
 
 ```python
 inputs = [1,2,3]
@@ -19,11 +17,9 @@ output = inputs[0]*weights[0] + inputs[1]*weights[1]+inputs[2]*weights[2] +bias
 # Todo: Findout why bias is adding insted of multiplying
 print(output)
 ```
-
+This code implements the following expression
 $$Y =( \sum_{k=1}^n inputs[k]  \  * \ weights[k]  \ )+ bias$$
-
-##### Example 2
-2. *Simple code containing 3 neuron*
+2. Simple code containing 3 neuron
 ```python
 inputs = [ 1, 2, 3]
 weights_1 = [ 2, 4, 5]
@@ -47,11 +43,10 @@ print(output)
 $$Y[i] =( \sum_{k=1}^K inputs[i][k]  \  * \ weights[i][k]  \ )+ bias)$$
 $$ Where \ Y = 1:\infty$$
 
-
 ![[Neural Network With 3 Weights.canvas|Neural Network With 3 Weights]]
 
 
-##### Simplified Example 2
+- More Dynamic example
 
 ```python
 inputs = [1, 2, 3]
@@ -110,7 +105,6 @@ print(output)
 
 ---
 ##### Dot Product
-
 ```python
 import numpy as np
 inputs = [1,2,3,2.5]
@@ -118,7 +112,6 @@ weights = [0.2,0.8,-0.5,1.0]
 bias = 2
 print(np.dot(inputs,weights) + bias)
 print(np.dot(weights,inputs) + bias)
-
 ```
 *position of the inputs,weight does not matter it gives the same result*
 
@@ -135,8 +128,6 @@ print(np.dot(weights,inputs) + bias)
 > Dot product of 2 vector produces `scalar single value`
 
 
-
-
 ```python
 import numpy as np
 inputs = [1,2,3,4]
@@ -148,7 +139,7 @@ print(np.dot(inputs,weights[1]) + biases[1])
 
 print(np.dot(weights[1],inputs) + biases[2])
 # weight should be the first arguiment to np.dot()
-print(np.dot(weights,inputs) + biases[2])
+print(np.dot(weights,inputs) + biases)
 ```
 
 > [!INFO] np.dot() order
@@ -166,21 +157,73 @@ $$
 
 
 
-##### Multiple Inputs
+#### Multiple Inputs
+- [Lists](/python/python#list)
+- [Numpy](/python/python/numpy)
+##### Dot product of single set of inputs and weights
 
 ```python
 import numpy as np
-inputs_1 = [1,2,3,4]
-inputs_2 = [1,3,45,5]
-inputs_3 = [1.1,2.2,3,4]
+inputs = [1,3,4,5]
+weights = [1,3,3,5]
+bias= 2
+output = np.dot(weights,inputs) + bias
+# np.dot(inputs_1,weights_1) 
+# + biases[0]
+print(output)
 
-weights_1 = [1,33,34,5]
-weights_2 = [0.2,3,3,3]
-weights_3 = [1.123,3.2,3,3]
-biases = [1,2,3]
+output = np.dot(inputs,weights) + bias
+print(output)
 
-output = []
+```
 
-output[0] = np.dot(inputs_1,weights_1) + biases[0]
+##### Dot product of Multiple set of inputs and weights
+
+```python
+import numpy as np
+inputs = [1,3,4,5]
+weights = [1,3,3,5]
+bias = 2
+print(np.dot(inputs,weights)+bias)
+
+inputs = [[1,3,4,5],
+		  [1,3,4,5],
+		  [1,3,4,5]]
+weights = [[1,3,3,5],
+		   [1,3,3,5],
+		   [1,3,3,5]]
+weights = np.array(weights).T
+bias= [2,2,3]
+#output = np.dot(weights,inputs) + bias
+# np.dot(inputs_1,weights_1) 
+# + biases[0]
+#print(output)
+
+output = np.dot(inputs,weights) + bias
 print(output)
 ```
+
+##### Finding the number of rows and columns
+```python 
+import numpy as np
+x = [[1,3,4,5],
+	  [1,3,4,5],
+	  [1,3,4,5]]
+np_x = np.array(x)
+y = np.array([1,2,3,4])  
+print(" x = " ,x)
+
+print("x using np.array = " ,np_x)
+print("y using np.array =" ,y)
+print("shape of x = " , np_x.shape)
+rows , columns = np_x.shape
+print("rows of x  = " , rows)
+print("columns of y = " ,columns)
+
+row_y , column_y = y.shape if len(y.shape) > 1 else (1,y.shape[0])
+print("rows of y = " , row_y)
+print("column of y = " , column_y)
+print("dot product of x and y " ,np.dot(np_x,y))
+```
+
+

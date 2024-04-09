@@ -4,93 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "5d2680cc4609631e",
+        "id": "5180f3ee0a3c206b",
         "type": "tabs",
         "children": [
           {
-            "id": "006dd2c7101a457d",
+            "id": "56c1456907479ae6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTech/ElectroMagnetics/Module 1.md",
-                "mode": "preview",
+                "file": "BTech/ElectroMagnetics/coulomb's law.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "d949df3905e7911a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Machine Learning/Neural Networks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "672eaca26c9ab8f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/matlibplot.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c0bca4bfb6688614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/numpy.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "72e5e96544e63ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BTech/ElectroMagnetics/Module 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9259aeb43471ad18",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BTech/ElectroMagnetics/EMT.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a59d78d10af089f4",
+            "id": "f67304fbb2647c7b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -98,9 +31,22 @@
                 "file": "Linux/Obsidian/latexsheet-a4.pdf"
               }
             }
+          },
+          {
+            "id": "1f28f1d2ceb77ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science/Physics.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e670cc36c194f8ef",
@@ -174,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTech/ElectroMagnetics/EMT.md",
+                "file": "Science/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BTech/ElectroMagnetics/EMT.md",
+                "file": "Science/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTech/ElectroMagnetics/EMT.md"
+                "file": "Science/Physics.md"
               }
             }
           }
@@ -236,56 +183,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9259aeb43471ad18",
+  "active": "1f28f1d2ceb77ce9",
   "lastOpenFiles": [
-    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_esp32/Solar_tracking_using_esp32.ino",
+    "Linux/Obsidian/Obsidian.md",
+    "Science/Physics.md",
+    "BTech/ElectroMagnetics/EMT.md",
+    "Science",
+    "BTech/ElectroMagnetics/Module 1.md",
+    "BTech/ElectroMagnetics/coulomb's law.md",
+    "Linux/Obsidian/latexsheet-a4.pdf",
+    "Embedded Systems/Controllers/ESP32.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
+    "Embedded Systems/Controllers/Esp32 Codes/ESP32.md/ESP32.md.ino",
+    "Embedded Systems/Controllers/Esp32 Codes/ESP32.md",
+    "Embedded Systems/Controllers/Esp32 Codes",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/Servo Motor.md",
+    "ESP32/analog_interfacing.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/esp32.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/esp32 1.md",
+    "Embedded Systems/Embedded Systems.md",
+    "Embedded Systems/Controllers",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Energy Monitoring/Monitoring Server.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Iot Based Smart Energy Management System.md",
+    "BTech/ElectroMagnetics/coulomb's.md",
+    "BTech/ElectroMagnetics/Module 2.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/templates/Template1.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/templates",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_esp32/Solar_tracking_using_esp32.ino",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.ino",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_esp32",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Test/playground.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Solar Tracking/Solar Tracking.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/ZMPT101B.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/SCT 013.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/Relay Module.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/PIR Sensor.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/LDR Sensor.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/project_block_diagram.png",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/esp32_pinout.png",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/Relay-pinout.webp",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/Pasted image 20240329055534.png",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/Pasted image 20240328225646.png",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/EnergyMonitoring.png.png",
     "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
-    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
-    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.ino",
-    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
-    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_esp32",
-    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino",
-    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.ino",
-    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.cpp",
-    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.c_",
-    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32.bak/multiThredingESP32.c",
-    "Projects/Iot_based_smart_energy_management_system/src/multiThredingESP32/multiThredingESP32.ino",
-    "Projects/Iot_based_smart_energy_management_system/src/multiThreding/test.c",
-    "Projects/Iot_based_smart_energy_management_system/src/multiThreding/multiThredBuGFGWithoutSleep",
-    "Projects/Iot_based_smart_energy_management_system/README.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/templates/Template1.md",
     "Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Test/playground.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Solar Tracking/Solar Tracking.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/ZMPT101B.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/Servo Motor.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/SCT 013.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/Relay Module.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/PIR Sensor.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Sensors/LDR Sensor.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Iot Based Smart Energy Management System.md",
     "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/project_block_diagram.png",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/esp32_pinout.png",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Relay-pinout.webp",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240329055534.png",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/Pasted image 20240328225646.png",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/EnergyMonitoring.png.png",
     "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
     "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Energy Monitoring/Monitoring Server.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Energy Monitoring/Energy Monitoring.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Energy Managment/Energy Management.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/ESP32/esp32.md",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/ESP32/analog_interfacing.md",
-    "Iot_based_smart_energy_managment_system/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
-    "Iot_based_smart_energy_managment_system/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
-    "Iot_based_smart_energy_managment_system/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
-    "Iot_based_smart_energy_managment_system/README.md",
-    "BTech/Communication_LAB/tempLatterCheck.md",
-    "BTech/ElectroMagnetics/EMT.md",
-    "AI/Machine Learning/Pasted image 20240409020238.png"
+    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas"
   ]
 }

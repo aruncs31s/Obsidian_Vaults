@@ -93,14 +93,6 @@
       "key": "E"
     }
   ],
-  "editor:toggle-fold": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
   "editor:fold-all": [
     {
       "modifiers": [
@@ -126,14 +118,6 @@
       "key": "M"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
   "editor:toggle-inline-math": [
     {
       "modifiers": [
@@ -149,6 +133,96 @@
         "Alt"
       ],
       "key": "G"
+    }
+  ],
+  "obsidian-hider:toggle-tab-containers": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-hider:toggle-app-ribbon": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
+  ],
+  "execute-code:run-all-code-blocks-in-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:goto-tab-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:goto-tab-2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "bookmarks:unbookmark-current-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
     }
   ]
 }

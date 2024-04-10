@@ -6,5 +6,7 @@
   "showViewHeader": false,
   "monospaceFontFamily": "JetBrains Mono",
   "nativeMenus": false,
-  "theme": "obsidian"
+  "theme": "system",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }

@@ -25,28 +25,71 @@
           {
             "id": "f67304fbb2647c7b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Linux/Obsidian/latexsheet-a4.pdf"
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "1f28f1d2ceb77ce9",
+            "id": "44de765d2c535bc4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BTech/Communication_LAB/Communication LAB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "595cdf40036a2337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Physics.md",
+                "file": "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcf45de585f64f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e281482fcd80f699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BTech/Btech.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -96,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -121,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Physics.md",
+                "file": "BTech/Btech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Physics.md",
+                "file": "BTech/Btech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +204,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Physics.md"
+                "file": "BTech/Btech.md"
               }
             }
+          },
+          {
+            "id": "1e62dc2d2a23f2bf",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,60 +232,62 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f28f1d2ceb77ce9",
+  "active": "e281482fcd80f699",
   "lastOpenFiles": [
-    "Linux/Obsidian/Obsidian.md",
-    "Science/Physics.md",
     "BTech/ElectroMagnetics/EMT.md",
-    "Science",
-    "BTech/ElectroMagnetics/Module 1.md",
+    "BTech/Btech.md",
+    "BTech/Pasted image 20240410164637.png",
     "BTech/ElectroMagnetics/coulomb's law.md",
-    "Linux/Obsidian/latexsheet-a4.pdf",
-    "Embedded Systems/Controllers/ESP32.md",
+    "Information Theory And Coding/Files",
+    "BTech/Communication_LAB/Files/tempLatterCheck.md",
+    "2024-04-10.md",
+    "BTech/Communication_LAB/Files/snrRatios.md",
+    "BTech/Communication_LAB/Files/pcm.md",
+    "BTech/Communication_LAB/Communication LAB.md",
+    "BTech/Communication_LAB/Expt 4 Eye Diagram",
+    "BTech/Communication_LAB/Expt 3 Performance of Waveform Coding Using PCM",
+    "BTech/Communication_LAB/Expt 2 Error Performance of QPSK",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Untitled.canvas",
+    "BTech/Communication_LAB/Files/expt1_graph.png",
+    "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas",
+    "Projects/TuxSemi/AI Chat Bot",
+    "Projects/TuxSemi",
+    "BTech/Communication_LAB/Files/LAB manual full.pdf",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK",
+    "BTech/Communication_LAB/Expt_1.md",
+    "Def Conf/Runtime Riddles - Abusing Manipulation Points in the Android Source.md",
+    "Embedded Systems/Files/Images/Pasted image 20240312003455.png",
+    "Embedded Systems/Files/Images/Pasted image 20240312003020.png",
+    "Embedded Systems/Files/Images/Pasted image 20240312002822.png",
+    "Embedded Systems/Files/Images/Pasted image 20240312002754.png",
+    "Embedded Systems/Files/Images/Pasted image 20240312000609.png",
+    "Embedded Systems/Files/Images/Pasted image 20240311235630.png",
+    "Embedded Systems/Files/Images/Pasted image 20240311235518.png",
+    "Embedded Systems/Files/Images/Pasted image 20240311233704.png",
+    "Embedded Systems/Files/Module 2/memory3.pdf",
+    "Embedded Systems/Files/Module 2/memory2.pdf",
+    "Embedded Systems/Files/Module 2/USB.md",
+    "Embedded Systems/Files/Module 2/Serial Comm.md",
+    "Embedded Systems/Files/Module 2/SPI Serial Peripheral Interface.md",
+    "Embedded Systems/Files/Module 2/Parity.md",
+    "Embedded Systems/Files/Module 2/Module 2 PDFs.md",
+    "Embedded Systems/Files/Module 2/Memory.md",
+    "Embedded Systems/Files/Module 2/Memory PDFs.md",
+    "Embedded Systems/Files/Module 2/I_O Devices.md",
+    "Embedded Systems/Files/Module 2/I_O Devices PDFs.md",
+    "Embedded Systems/Files/Module 2/I2C.md",
+    "Embedded Systems/Files/Module 2/HDLC.md",
+    "Embedded Systems/Project/Files/Module 2/USB.md",
+    "Embedded Systems/Project/Files/Module 2/Serial Comm.md",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
-    "Embedded Systems/Controllers/Esp32 Codes/ESP32.md/ESP32.md.ino",
-    "Embedded Systems/Controllers/Esp32 Codes/ESP32.md",
-    "Embedded Systems/Controllers/Esp32 Codes",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/Servo Motor.md",
-    "ESP32/analog_interfacing.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/esp32.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/esp32 1.md",
-    "Embedded Systems/Embedded Systems.md",
-    "Embedded Systems/Controllers",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Energy Monitoring/Monitoring Server.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Iot Based Smart Energy Management System.md",
-    "BTech/ElectroMagnetics/coulomb's.md",
-    "BTech/ElectroMagnetics/Module 2.md",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/templates/Template1.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/templates",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_esp32/Solar_tracking_using_esp32.ino",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/Solar_tracking_using_arduino.ino",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/README.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_esp32",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Test/playground.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Solar Tracking/Solar Tracking.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/ZMPT101B.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/SCT 013.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/Relay Module.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/PIR Sensor.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/LDR Sensor.md",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/project_block_diagram.png",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/esp32_pinout.png",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/Relay-pinout.webp",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/Pasted image 20240329055534.png",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/Pasted image 20240328225646.png",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Images/EnergyMonitoring.png.png",
-    "Projects/Iot_based_smart_energy_management_system/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/src/solarTrackingCode/Solar_tracking_using_arduino/solar_tracker.png",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Images/project_block_diagram.png",
     "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
     "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
     "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas"

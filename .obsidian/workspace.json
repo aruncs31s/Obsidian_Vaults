@@ -55,28 +55,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
-                "mode": "preview",
+                "file": "Linux/Linux.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "bcf45de585f64f88",
+            "id": "70abba8b1d3d9393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Songs/Neffex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e388aca7f0944ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neffex/Life.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Neffex/Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Neffex/Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Neffex/Life.md"
               }
             }
           },
@@ -213,21 +226,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bcf45de585f64f88",
+  "active": "e388aca7f0944ee0",
   "lastOpenFiles": [
-    "BTech/Btech.md",
+    "Songs/Neffex.md",
+    "Neffex/Life.md",
+    "Neffex",
+    "Songs/Neffex/Hope.md",
+    "Linux/Linux Customization.md",
     "templates/Tesla/Welcome.md",
     "templates/Tesla/Untitled.md",
+    "Songs/Eminem/That's All She Wrote.md",
+    "Songs/Neffex",
+    "Songs/Eminem",
+    "Songs",
+    "Science/Newton’s laws of motion.md",
     "BTech/Communication_LAB/tempLatterCheck.md",
     "BTech/Communication_LAB/snrRatios.md",
     "BTech/Communication_LAB/pcm.md",
@@ -236,43 +258,34 @@
     "BTech/Communication_LAB/Expt_5.md",
     "BTech/Communication_LAB/Expt_4.md",
     "BTech/Communication_LAB/Expt_1.md",
-    "BTech/ElectroMagnetics/EMT.md",
-    "BTech/Pasted image 20240410164637.png",
+    "Linux/Linux.md",
     "BTech/ElectroMagnetics/coulomb's law.md",
-    "Information Theory And Coding/Files",
-    "BTech/Communication_LAB/Files/tempLatterCheck.md",
-    "2024-04-10.md",
-    "BTech/Communication_LAB/Files/snrRatios.md",
-    "BTech/Communication_LAB/Files/pcm.md",
-    "BTech/Communication_LAB/Communication LAB.md",
-    "BTech/Communication_LAB/Expt 4 Eye Diagram",
-    "BTech/Communication_LAB/Expt 3 Performance of Waveform Coding Using PCM",
-    "BTech/Communication_LAB/Expt 2 Error Performance of QPSK",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Untitled.canvas",
+    "templates/Tesla/Note Template.md",
     "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas",
     "Projects/TuxSemi/AI Chat Bot",
     "Projects/TuxSemi",
-    "BTech/Communication_LAB/Files/LAB manual full.pdf",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK",
+    "Information Theory And Coding/Information Theory And Coding.md",
     "Def Conf/Runtime Riddles - Abusing Manipulation Points in the Android Source.md",
+    "Def Conf/Pasted image 20240410012134.png",
+    "Def Conf/Pasted image 20240410011325.png",
+    "Def Conf/Pasted image 20240410010908.png",
+    "Def Conf/Pasted image 20240410010609.png",
+    "Def Conf/Pasted image 20240410010539.png",
+    "Def Conf/Pasted image 20240410010525.png",
+    "Def Conf/Pasted image 20240410010432.png",
+    "Books/The Subtle ART of Not Giving a fk.md",
+    "Books",
+    "BTech/Pasted image 20240410164637.png",
+    "BTech/Communication_LAB/Files/tempLatterCheck.md",
+    "BTech/Communication_LAB/Files/snrRatios.md",
+    "BTech/Communication_LAB/Files/pcm.md",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
+    "BTech/Btech.md",
+    "Information Theory And Coding/Files",
+    "BTech/Communication_LAB/Expt 4 Eye Diagram",
+    "BTech/Communication_LAB/Expt 3 Performance of Waveform Coding Using PCM",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Untitled.canvas",
     "Embedded Systems/Files/Images/Pasted image 20240312003455.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312003020.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312002822.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312002754.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312000609.png",
-    "Embedded Systems/Files/Images/Pasted image 20240311235630.png",
-    "Embedded Systems/Files/Images/Pasted image 20240311235518.png",
-    "Embedded Systems/Files/Images/Pasted image 20240311233704.png",
-    "Embedded Systems/Files/Module 2/memory3.pdf",
-    "Embedded Systems/Files/Module 2/memory2.pdf",
-    "Embedded Systems/Files/Module 2/USB.md",
-    "Embedded Systems/Files/Module 2/Serial Comm.md",
-    "Embedded Systems/Files/Module 2/SPI Serial Peripheral Interface.md",
-    "Embedded Systems/Files/Module 2/Parity.md",
-    "Embedded Systems/Files/Module 2/Module 2 PDFs.md",
-    "Embedded Systems/Files/Module 2/Memory.md",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas",

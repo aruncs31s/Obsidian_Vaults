@@ -1,2 +1,2 @@
 # Obsidian_Vaults
-Just My obsidian Notes
+Just My Digital Notes

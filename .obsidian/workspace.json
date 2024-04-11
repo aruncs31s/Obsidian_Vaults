@@ -55,8 +55,39 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
                 "mode": "preview",
+=======
+                "file": "Linux/Linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70abba8b1d3d9393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Neffex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e388aca7f0944ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neffex/Life.md",
+                "mode": "source",
+>>>>>>> galaxy_note_3
                 "backlinks": true,
                 "source": false
               }
@@ -164,7 +195,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "BTech/Btech.md",
+=======
+                "file": "Neffex/Life.md",
+>>>>>>> galaxy_note_3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +216,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "BTech/Btech.md",
+=======
+                "file": "Neffex/Life.md",
+>>>>>>> galaxy_note_3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +243,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "BTech/Btech.md"
+=======
+                "file": "Neffex/Life.md"
+>>>>>>> galaxy_note_3
               }
             }
           },
@@ -236,6 +279,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+<<<<<<< HEAD
   "active": "e281482fcd80f699",
   "lastOpenFiles": [
     "BTech/ElectroMagnetics/EMT.md",
@@ -285,6 +329,58 @@
     "Embedded Systems/Files/Module 2/HDLC.md",
     "Embedded Systems/Project/Files/Module 2/USB.md",
     "Embedded Systems/Project/Files/Module 2/Serial Comm.md",
+=======
+  "active": "e388aca7f0944ee0",
+  "lastOpenFiles": [
+    "Songs/Neffex.md",
+    "Neffex/Life.md",
+    "Neffex",
+    "Songs/Neffex/Hope.md",
+    "Linux/Linux Customization.md",
+    "templates/Tesla/Welcome.md",
+    "templates/Tesla/Untitled.md",
+    "Songs/Eminem/That's All She Wrote.md",
+    "Songs/Neffex",
+    "Songs/Eminem",
+    "Songs",
+    "Science/Newton’s laws of motion.md",
+    "BTech/Communication_LAB/tempLatterCheck.md",
+    "BTech/Communication_LAB/snrRatios.md",
+    "BTech/Communication_LAB/pcm.md",
+    "BTech/Communication_LAB/expt1.md",
+    "BTech/Communication_LAB/Files/expt1_graph.png",
+    "BTech/Communication_LAB/Expt_5.md",
+    "BTech/Communication_LAB/Expt_4.md",
+    "BTech/Communication_LAB/Expt_1.md",
+    "Linux/Linux.md",
+    "BTech/ElectroMagnetics/coulomb's law.md",
+    "templates/Tesla/Note Template.md",
+    "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas",
+    "Projects/TuxSemi/AI Chat Bot",
+    "Projects/TuxSemi",
+    "Information Theory And Coding/Information Theory And Coding.md",
+    "Def Conf/Runtime Riddles - Abusing Manipulation Points in the Android Source.md",
+    "Def Conf/Pasted image 20240410012134.png",
+    "Def Conf/Pasted image 20240410011325.png",
+    "Def Conf/Pasted image 20240410010908.png",
+    "Def Conf/Pasted image 20240410010609.png",
+    "Def Conf/Pasted image 20240410010539.png",
+    "Def Conf/Pasted image 20240410010525.png",
+    "Def Conf/Pasted image 20240410010432.png",
+    "Books/The Subtle ART of Not Giving a fk.md",
+    "Books",
+    "BTech/Pasted image 20240410164637.png",
+    "BTech/Communication_LAB/Files/tempLatterCheck.md",
+    "BTech/Communication_LAB/Files/snrRatios.md",
+    "BTech/Communication_LAB/Files/pcm.md",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
+    "BTech/Btech.md",
+    "Information Theory And Coding/Files",
+    "BTech/Communication_LAB/Expt 4 Eye Diagram",
+    "BTech/Communication_LAB/Expt 3 Performance of Waveform Coding Using PCM",
+    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Untitled.canvas",
+    "Embedded Systems/Files/Images/Pasted image 20240312003455.png",
+>>>>>>> galaxy_note_3
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas",

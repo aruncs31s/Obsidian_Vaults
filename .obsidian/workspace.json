@@ -226,7 +226,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,

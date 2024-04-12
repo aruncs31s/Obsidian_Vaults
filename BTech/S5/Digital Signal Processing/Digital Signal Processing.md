@@ -1,5 +1,6 @@
 # Digital Signal Processing
 ## Syllabus
+- [PDF](~/k.pdf)
 1. [Module 1](./Module%201)
 	- Basic Elements of a DSP system
 	- Typical DSP applications

@@ -6,16 +6,64 @@
       {
         "id": "031abe3cb76a006a",
         "type": "tabs",
+        "dimension": 69.87951807228916,
         "children": [
           {
             "id": "58c9ed6a2baa4765",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Linux/Obsidian/latexsheet-a4.pdf"
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
-            }
+            },
+            "group": "266b3e9157edc33b"
+          }
+        ]
+      },
+      {
+        "id": "f5cac6dc86076f39",
+        "type": "tabs",
+        "dimension": 30.120481927710845,
+        "children": [
+          {
+            "id": "17920ca9f5e613bd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.19753086419753085,
+                  "close": true
+                }
+              }
+            },
+            "group": "266b3e9157edc33b"
           }
         ]
       }
@@ -67,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57546f8d775cc41d",
@@ -91,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Obsidian/latexsheet-a4.pdf",
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Obsidian/latexsheet-a4.pdf",
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Obsidian/latexsheet-a4.pdf"
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md"
               }
             }
           }
@@ -154,11 +203,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "167e911ffc533bae",
+  "active": "58c9ed6a2baa4765",
   "lastOpenFiles": [
+    "Notes/Tasks.md",
+    "Songs/Life.md",
+    "Linux/Obsidian/latexsheet-a4.pdf",
     "Temp/Untitled.md",
     "Temp",
-    "Notes/Tasks.md",
     "templates/Tesla/Note Template.md",
     "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas",
     "Projects/TuxSemi/AI Chat Bot",
@@ -187,7 +238,6 @@
     "BTech/S6/ElectroMagnetics/Assignments",
     "BTech/S6/Communication_LAB/Files/tempLatterCheck.md",
     "BTech/S6/Communication_LAB/Files/snrRatios.md",
-    "BTech/S6/Communication_LAB/Files/s.m",
     "BTech/S6/Communication_LAB/Files/pcm.md",
     "BTech/S6/Communication_LAB/Files/Screenshot (1).png",
     "BTech/S6/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
@@ -201,7 +251,6 @@
     "templates/Tesla/Untitled.md",
     "BTech/ElectroMagnetics/Module3/Untitled.md",
     "BTech/ElectroMagnetics/coulomb's law.md",
-    "BTech/ElectroMagnetics/Module 3.md",
     "BTech/Communication_LAB/Files/expt1_graph.png"
   ]
 }

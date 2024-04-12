@@ -13,7 +13,7 @@ Created : 2024-04-10 16:43
 
 | Code         | Slote | Name                                                                                           | Number |     |
 | ------------ | ----- | ---------------------------------------------------------------------------------------------- | ------ | --- |
-| EM           | A     | [[BTech/ElectroMagnetics/EMT\|ElectroMagnetics]]                                               | ECT302 |     |
+| EM           | A     | [[BTech/S6/ElectroMagnetics/EMT|ElectroMagnetics]]                                               | ECT302 |     |
 | VLSI         | B     | VLSI Circuit Design                                                                            | ECT304 |     |
 | ITC          | C     | [[Information Theory And Coding/Information Theory And Coding\|Information Theory And Coding]] | ECT306 |     |
 | EL1          | D     | [[Embedded Systems/Embedded Systems\|Embedded Systems]]                                        | ECT342 |     |
@@ -22,7 +22,7 @@ Created : 2024-04-10 16:43
 | MINI PROJECT | T     |                                                                                                |        |     |
 
 
-- [[BTech/ElectroMagnetics/EMT|Electromagnetics]]
+- [[BTech/S6/ElectroMagnetics/EMT|Electromagnetics]]
 - 
 - 
 #### Subjects

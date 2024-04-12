@@ -71,14 +71,6 @@
       "key": "C"
     }
   ],
-  "obsidian-autocomplete-plugin:autocomplete-scan-current-file-default": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
-    }
-  ],
   "markdown:toggle-preview": [
     {
       "modifiers": [
@@ -223,6 +215,14 @@
         "Alt"
       ],
       "key": "B"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ]
 }

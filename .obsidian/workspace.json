@@ -1,140 +1,66 @@
 {
   "main": {
-    "id": "ed666be537737d9f",
+    "id": "d671f38c73a55993",
     "type": "split",
     "children": [
       {
-        "id": "5180f3ee0a3c206b",
+        "id": "031abe3cb76a006a",
         "type": "tabs",
         "children": [
           {
-            "id": "56c1456907479ae6",
+            "id": "fa817f9978088447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BTech/S5/Digital Signal Processing/Digital Signal Processing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ab83e4d9b5ca61",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTech/ElectroMagnetics/coulomb's law.md",
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "f67304fbb2647c7b",
+            "id": "58c9ed6a2baa4765",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Linux/Obsidian/latexsheet-a4.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "44de765d2c535bc4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BTech/Communication_LAB/Communication LAB.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "595cdf40036a2337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
-                "mode": "preview",
-=======
-                "file": "Linux/Linux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70abba8b1d3d9393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Neffex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e388aca7f0944ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neffex/Life.md",
-                "mode": "source",
->>>>>>> galaxy_note_3
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcf45de585f64f88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e281482fcd80f699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BTech/Btech.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6fc2135884b351c9",
+    "id": "2ec832e35b269f1f",
     "type": "split",
     "children": [
       {
-        "id": "6339c8e33bd26bca",
+        "id": "980a971e8769c576",
         "type": "tabs",
         "children": [
           {
-            "id": "3042ce921eae4125",
+            "id": "167e911ffc533bae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -144,7 +70,7 @@
             }
           },
           {
-            "id": "942c6adc38702461",
+            "id": "ed17e66575383803",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -159,7 +85,7 @@
             }
           },
           {
-            "id": "566fdb82fd5ae10d",
+            "id": "a5db0652a2fff979",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -170,19 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "e670cc36c194f8ef",
+    "id": "57546f8d775cc41d",
     "type": "split",
     "children": [
       {
-        "id": "c4b4efbbfcbb9c9a",
+        "id": "432b73bd091b2d96",
         "type": "tabs",
         "children": [
           {
-            "id": "4a51467cec075cff",
+            "id": "439e095c13b94290",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -190,16 +116,12 @@
             }
           },
           {
-            "id": "adfacafa5f9c0785",
+            "id": "31cba3f0cb10be7a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "BTech/Btech.md",
-=======
-                "file": "Neffex/Life.md",
->>>>>>> galaxy_note_3
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,23 +133,19 @@
             }
           },
           {
-            "id": "482258924b932386",
+            "id": "d74abb4d93d2c6f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "BTech/Btech.md",
-=======
-                "file": "Neffex/Life.md",
->>>>>>> galaxy_note_3
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "86b1921de21053f1",
+            "id": "59e098c10f8d1018",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -238,29 +156,16 @@
             }
           },
           {
-            "id": "4c3b02f8e850efd1",
+            "id": "23acab83efcbc9c8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "BTech/Btech.md"
-=======
-                "file": "Neffex/Life.md"
->>>>>>> galaxy_note_3
+                "file": "BTech/S5/Digital Signal Processing/Module 1.md"
               }
             }
-          },
-          {
-            "id": "1e62dc2d2a23f2bf",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -279,113 +184,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< HEAD
-  "active": "e281482fcd80f699",
+  "active": "77ab83e4d9b5ca61",
   "lastOpenFiles": [
-    "BTech/ElectroMagnetics/EMT.md",
-    "BTech/Btech.md",
-    "BTech/Pasted image 20240410164637.png",
-    "BTech/ElectroMagnetics/coulomb's law.md",
-    "Information Theory And Coding/Files",
-    "BTech/Communication_LAB/Files/tempLatterCheck.md",
-    "2024-04-10.md",
-    "BTech/Communication_LAB/Files/snrRatios.md",
-    "BTech/Communication_LAB/Files/pcm.md",
-    "BTech/Communication_LAB/Communication LAB.md",
-    "BTech/Communication_LAB/Expt 4 Eye Diagram",
-    "BTech/Communication_LAB/Expt 3 Performance of Waveform Coding Using PCM",
-    "BTech/Communication_LAB/Expt 2 Error Performance of QPSK",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Untitled.canvas",
-    "BTech/Communication_LAB/Files/expt1_graph.png",
-    "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas",
-    "Projects/TuxSemi/AI Chat Bot",
-    "Projects/TuxSemi",
-    "BTech/Communication_LAB/Files/LAB manual full.pdf",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK",
-    "BTech/Communication_LAB/Expt_1.md",
-    "Def Conf/Runtime Riddles - Abusing Manipulation Points in the Android Source.md",
-    "Embedded Systems/Files/Images/Pasted image 20240312003455.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312003020.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312002822.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312002754.png",
-    "Embedded Systems/Files/Images/Pasted image 20240312000609.png",
-    "Embedded Systems/Files/Images/Pasted image 20240311235630.png",
-    "Embedded Systems/Files/Images/Pasted image 20240311235518.png",
-    "Embedded Systems/Files/Images/Pasted image 20240311233704.png",
-    "Embedded Systems/Files/Module 2/memory3.pdf",
-    "Embedded Systems/Files/Module 2/memory2.pdf",
-    "Embedded Systems/Files/Module 2/USB.md",
-    "Embedded Systems/Files/Module 2/Serial Comm.md",
-    "Embedded Systems/Files/Module 2/SPI Serial Peripheral Interface.md",
-    "Embedded Systems/Files/Module 2/Parity.md",
-    "Embedded Systems/Files/Module 2/Module 2 PDFs.md",
-    "Embedded Systems/Files/Module 2/Memory.md",
-    "Embedded Systems/Files/Module 2/Memory PDFs.md",
-    "Embedded Systems/Files/Module 2/I_O Devices.md",
-    "Embedded Systems/Files/Module 2/I_O Devices PDFs.md",
-    "Embedded Systems/Files/Module 2/I2C.md",
-    "Embedded Systems/Files/Module 2/HDLC.md",
-    "Embedded Systems/Project/Files/Module 2/USB.md",
-    "Embedded Systems/Project/Files/Module 2/Serial Comm.md",
-=======
-  "active": "e388aca7f0944ee0",
-  "lastOpenFiles": [
-    "Songs/Neffex.md",
-    "Neffex/Life.md",
-    "Neffex",
-    "Songs/Neffex/Hope.md",
-    "Linux/Linux Customization.md",
-    "templates/Tesla/Welcome.md",
-    "templates/Tesla/Untitled.md",
-    "Songs/Eminem/That's All She Wrote.md",
-    "Songs/Neffex",
-    "Songs/Eminem",
-    "Songs",
-    "Science/Newton’s laws of motion.md",
-    "BTech/Communication_LAB/tempLatterCheck.md",
-    "BTech/Communication_LAB/snrRatios.md",
-    "BTech/Communication_LAB/pcm.md",
-    "BTech/Communication_LAB/expt1.md",
-    "BTech/Communication_LAB/Files/expt1_graph.png",
-    "BTech/Communication_LAB/Expt_5.md",
-    "BTech/Communication_LAB/Expt_4.md",
-    "BTech/Communication_LAB/Expt_1.md",
-    "Linux/Linux.md",
-    "BTech/ElectroMagnetics/coulomb's law.md",
-    "templates/Tesla/Note Template.md",
-    "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas",
-    "Projects/TuxSemi/AI Chat Bot",
-    "Projects/TuxSemi",
-    "Information Theory And Coding/Information Theory And Coding.md",
-    "Def Conf/Runtime Riddles - Abusing Manipulation Points in the Android Source.md",
-    "Def Conf/Pasted image 20240410012134.png",
-    "Def Conf/Pasted image 20240410011325.png",
-    "Def Conf/Pasted image 20240410010908.png",
-    "Def Conf/Pasted image 20240410010609.png",
-    "Def Conf/Pasted image 20240410010539.png",
-    "Def Conf/Pasted image 20240410010525.png",
-    "Def Conf/Pasted image 20240410010432.png",
+    "BTech/S5/Digital Signal Processing/Digital Signal Processing.md",
+    "Linux/Obsidian/latexsheet-a4.pdf",
+    "BTech/S5/Digital Signal Processing/Module 1.md",
+    "Embedded Systems/Module 1.md",
+    "BTech/S5/Digital Signal Processing/DIGITAL SIGNAL PROCESSING.pdf",
+    "BTech/S6/ElectroMagnetics/EMT.md",
+    "BTech/S5/Analog and Digital Communicatio",
+    "BTech/S5/Digital Signal Processing",
+    "BTech/S5",
+    "BTech/S6",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/().md",
+    "BTech/S6/ElectroMagnetics/coulomb's law.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/esp32.md",
     "Books/The Subtle ART of Not Giving a fk.md",
-    "Books",
-    "BTech/Pasted image 20240410164637.png",
-    "BTech/Communication_LAB/Files/tempLatterCheck.md",
-    "BTech/Communication_LAB/Files/snrRatios.md",
-    "BTech/Communication_LAB/Files/pcm.md",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
-    "BTech/Btech.md",
-    "Information Theory And Coding/Files",
-    "BTech/Communication_LAB/Expt 4 Eye Diagram",
-    "BTech/Communication_LAB/Expt 3 Performance of Waveform Coding Using PCM",
-    "BTech/Communication_LAB/Expt 1 Error Performance of BPSK/Untitled.canvas",
-    "Embedded Systems/Files/Images/Pasted image 20240312003455.png",
->>>>>>> galaxy_note_3
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Pinout.canvas",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Mini_Project.canvas",
-    "Iot_based_smart_energy_managment_system/Obsidian_Notes/Files/Diagrams/Block Diagram.canvas"
+    "python/python.md",
+    "python/numpy.md",
+    "python/matlibplot.md",
+    "Projects/Projects.md",
+    "Projects/Iot_based_smart_energy_management_system/README.md",
+    "Projects/GCEK WiFi/GCEK WiFI.md"
   ]
 }

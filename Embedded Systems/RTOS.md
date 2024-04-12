@@ -95,7 +95,8 @@ xReturned = xTaskCreate(
 - Differentiate yourself as a fresher
 ---
 ##### Suggested Class
-![[Embedded Systems/Pasted image 20240412181724.png]]
+![esp.png](/Embedded%20Systems/Files/esp.png)
+
 1. https://youtu.be/F321087yYy4?feature=shared
 
 ---

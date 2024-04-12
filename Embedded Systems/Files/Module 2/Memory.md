@@ -42,6 +42,6 @@ tags:
 
 
 
-![[Pasted image 20240330204044.png]]
+![[Embedded Systems/Files/Pasted image 20240330204044.png]]
 #fig Two Level Cache System
 

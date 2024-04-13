@@ -3,10 +3,11 @@ Created: 2024-04-12
 tag: {"Embedded Systems","RTOS"}
 ---
 
+
 ---
 
-# Real Time Operating Systems
-*By Anil Achoora*
+# Real Time Operating Systems *By Anil Achoora*
+
 *operating system designed for real-time applications that require immediate processing and response to inputs*
 - RTOS is optimized for tasks that have strict timing constraints
 ---
@@ -36,6 +37,7 @@ tag: {"Embedded Systems","RTOS"}
 - OSEK
 - OS8
 ---
+
 #### Basic Concepts
 - Task,Threads,Processes or think of it as workers
 - Memory , Number of ports, peripheral access think of it as resources
@@ -111,3 +113,8 @@ xReturned = xTaskCreate(
 - Learn about companies and products
 - Be Industry ready in something.
 ---
+
+### Connected To
+
+[[Embedded Systems]]
+

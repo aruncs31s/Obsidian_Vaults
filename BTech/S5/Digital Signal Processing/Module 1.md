@@ -3,7 +3,7 @@
 ## Contents
 - [Syllabus](#syllabus)
 - 
-## Syllabus
+### Syllabus
 
 - Basic Elements of a DSP system
 - Typical DSP applications
@@ -18,6 +18,8 @@
 - Filtering of long data sequences,
 - overlap save and overlap add methods
 - Frequency Analysis of Signals using the DFT (concept only required)
+
+## Introduction
 
 ### Fourier Series
 The Fourier series is a mathematical tool used to ==represent a periodic function as the sum of simple sine and cosine functions==. It is named after Jean-Baptiste Joseph Fourier, who introduced the concept in the early 19th century. The Fourier series is particularly useful for ==analyzing signals that are periodic in nature==.
@@ -60,3 +62,6 @@ $$
 f(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} F(\omega) e^{j\omega t} d
 \omega\
 $$
+
+
+

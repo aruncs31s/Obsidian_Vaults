@@ -6,7 +6,6 @@
       {
         "id": "031abe3cb76a006a",
         "type": "tabs",
-        "dimension": 69.87951807228916,
         "children": [
           {
             "id": "58c9ed6a2baa4765",
@@ -14,58 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
+                "file": "Projects/Smart-Locker/Smart Locker.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "266b3e9157edc33b"
-          }
-        ]
-      },
-      {
-        "id": "f5cac6dc86076f39",
-        "type": "tabs",
-        "dimension": 30.120481927710845,
-        "children": [
+            }
+          },
           {
-            "id": "17920ca9f5e613bd",
+            "id": "64bdd6048d6c7bb5",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "canvas",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.19753086419753085,
-                  "close": true
+                "file": "Projects/Smart-Locker/Flutter app.canvas",
+                "viewState": {
+                  "x": 747.8726620828845,
+                  "y": 1051.6681586710652,
+                  "zoom": -1.915111102413487
                 }
               }
-            },
-            "group": "266b3e9157edc33b"
+            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -115,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57546f8d775cc41d",
@@ -140,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
+                "file": "Projects/Smart-Locker/Smart Locker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
+                "file": "Projects/Smart-Locker/Smart Locker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +150,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md"
+                "file": "Projects/Smart-Locker/Smart Locker.md"
               }
+            }
+          },
+          {
+            "id": "212febf0ec9ae3ba",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
             }
           }
         ]
@@ -203,54 +181,94 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "cc9169392ad8c6c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1bc021c3989ea5f2",
+        "type": "window",
+        "children": [
+          {
+            "id": "c089bc6532c236bf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d018d2447bd1d133",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BTech/S6/ElectroMagnetics/Module 1.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 685,
+        "y": 89,
+        "width": 662,
+        "height": 660,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "58c9ed6a2baa4765",
   "lastOpenFiles": [
-    "Notes/Tasks.md",
-    "Songs/Life.md",
-    "Linux/Obsidian/latexsheet-a4.pdf",
-    "Temp/Untitled.md",
-    "Temp",
-    "templates/Tesla/Note Template.md",
-    "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas",
-    "Projects/TuxSemi/AI Chat Bot",
-    "Projects/TuxSemi",
-    "Information Theory And Coding/Information Theory And Coding.md",
-    "Def Conf/Runtime Riddles - Abusing Manipulation Points in the Android Source.md",
-    "Def Conf/Pasted image 20240410012134.png",
-    "Def Conf/Pasted image 20240410011325.png",
-    "Def Conf/Pasted image 20240410010908.png",
-    "Def Conf/Pasted image 20240410010609.png",
-    "Def Conf/Pasted image 20240410010539.png",
-    "Def Conf/Pasted image 20240410010525.png",
-    "Def Conf/Pasted image 20240410010432.png",
-    "Books/The Subtle ART of Not Giving a fk.md",
-    "Books",
-    "BTech/S6/ElectroMagnetics/coulomb's law.md",
-    "BTech/S6/ElectroMagnetics/Module3/Untitled.md",
-    "BTech/S6/ElectroMagnetics/Module3",
-    "BTech/S6/ElectroMagnetics/Module 3.md",
-    "BTech/S6/ElectroMagnetics/Module 2.md",
     "BTech/S6/ElectroMagnetics/Module 1.md",
-    "BTech/S6/ElectroMagnetics/Files/ELECTROMAGNETICS.pdf",
-    "BTech/S6/ElectroMagnetics/Files",
-    "BTech/S6/ElectroMagnetics/EMT.md",
-    "BTech/S6/ElectroMagnetics/Assignments/EM assignment 1.pdf",
-    "BTech/S6/ElectroMagnetics/Assignments",
-    "BTech/S6/Communication_LAB/Files/tempLatterCheck.md",
-    "BTech/S6/Communication_LAB/Files/snrRatios.md",
-    "BTech/S6/Communication_LAB/Files/pcm.md",
-    "BTech/S6/Communication_LAB/Files/Screenshot (1).png",
-    "BTech/S6/Communication_LAB/Expt 1 Error Performance of BPSK/SNR.md",
-    "BTech/S6/Communication_LAB/Expt 1 Error Performance of BPSK/Error Performance of BPSK.md",
-    "BTech/S6/Communication_LAB/Communication LAB.md",
-    "BTech/S5/Digital Signal Processing/Module 1.md",
-    "BTech/S5/Digital Signal Processing/Digital Signal Processing.md",
-    "BTech/Pasted image 20240410164637.png",
-    "BTech/Btech.md",
-    "templates/Tesla/Welcome.md",
-    "templates/Tesla/Untitled.md",
-    "BTech/ElectroMagnetics/Module3/Untitled.md",
-    "BTech/ElectroMagnetics/coulomb's law.md",
-    "BTech/Communication_LAB/Files/expt1_graph.png"
+    "Projects/Smart-Locker/Flutter app.canvas",
+    "Projects/Smart-Locker/Smart Locker.md",
+    "Projects/Smart-Locker/Smart Locker.canvas",
+    "Projects/Smart-Locker/Flutter APP.md",
+    "Projects/Ethical/Documentations/Vulnerabilities/files/gofetch.pdf",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/working_dir.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/iwlist_info.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/ip_a.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/ifconfig.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/handshake-captured.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/essid.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/deauth.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/cracked.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/capfiles.png",
+    "Projects/Ethical/Hacks/Wifi Hacking/img/cap_files.png",
+    "Projects/Ethical/Documentations/CVEs/CVE-2024-3094/README.md",
+    "Projects/Ethical/Documentations/languages/python/README.md",
+    "Projects/Ethical/Documentations/Basics/images/crunch",
+    "Projects/Ethical/Documentations/Basics/Spoofing/README.md",
+    "Projects/Ethical/Documentations/Basics/Password Generation/README.md",
+    "Projects/Ethical/Documentations/Basics/Crypto/gnupg.md",
+    "Projects/Ethical/Documentations/Basics/Crypto/arun-gpg.pub",
+    "Projects/Ethical/Documentations/Basics/Crypto/Cryptography.md",
+    "Projects/Ethical/Documentations/Introduction/android-hacking/README.md",
+    "Projects/Ethical/Documentations/CVEs/CVE-2022-26809/rcdump.py",
+    "Projects/Ethical/Documentations/CVEs/CVE-2022-26809/README.md",
+    "Projects/Ethical/Documentations/CVEs/CVE-2022-0847/compile.sh",
+    "Projects/Ethical/Documentations/CVEs/CVE-2022-0847/check.sh",
+    "Projects/Ethical/Documentations/CVEs/CVE-2022-0847/README.md",
+    "Projects/Ethical/Documentations/CVEs/CVE-2022-0847/CVE-2022-0847-exploit2.c",
+    "Projects/Ethical/Documentations/CVEs/CVE-2022-0847/CVE-2022-0847-exploit.c",
+    "Projects/Ethical/Hacks/privilege escalation/compile.sh",
+    "Projects/Ethical/Hacks/privilege escalation/check.sh",
+    "Projects/Ethical/Hacks/privilege escalation/README.md",
+    "Projects/Ethical/Documentations/Vulnerabilities/Gofetch_apple_mx.md",
+    "Projects/Ethical/Hacks/Wifi Hacking/README.md",
+    "Projects/Ethical/Hacks/PUBLIC CAMERA HACKING/README.md",
+    "Projects/Ethical/Documentations/languages/README.md",
+    "Projects/Ethical/Documentations/Tools-Used/README.md",
+    "Projects/Ethical/Documentations/Prerequisites/README.md",
+    "Projects/Ethical/Documentations/Prerequisites/Linux.md",
+    "Projects/Ethical/Documentations/Prerequisites/Git_slides.md",
+    "Projects/Ethical/Documentations/Prerequisites/Git.md",
+    "Projects/Ethical/Documentations/Prerequisites/Environment.md",
+    "Projects/Ethical/Documentations/Basics/prerequisites.md",
+    "Projects/Ethical/Documentations/Basics/Reconnaissance.md",
+    "Projects/Ethical/Documentations/Basics/README.md",
+    "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas"
   ]
 }

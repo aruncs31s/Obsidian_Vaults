@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Projects/Smart-Locker/Smart Locker.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -24,17 +24,18 @@
             "id": "64bdd6048d6c7bb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "BTech/S6/ElectroMagnetics/Module 1.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Projects/Smart-Locker/Flutter app.canvas",
+                "viewState": {
+                  "x": 747.8726620828845,
+                  "y": 1051.6681586710652,
+                  "zoom": -1.915111102413487
+                }
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -85,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57546f8d775cc41d",
@@ -110,13 +110,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTech/S6/ElectroMagnetics/Module 1.md",
+                "file": "Projects/Smart-Locker/Smart Locker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d74abb4d93d2c6f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Smart-Locker/Smart Locker.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -138,24 +150,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTech/S6/ElectroMagnetics/Module 1.md"
+                "file": "Projects/Smart-Locker/Smart Locker.md"
               }
             }
           },
           {
-            "id": "cb851c5f6cf99b81",
+            "id": "212febf0ec9ae3ba",
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +181,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64bdd6048d6c7bb5",
+  "floating": {
+    "id": "cc9169392ad8c6c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1bc021c3989ea5f2",
+        "type": "window",
+        "children": [
+          {
+            "id": "c089bc6532c236bf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d018d2447bd1d133",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BTech/S6/ElectroMagnetics/Module 1.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 685,
+        "y": 89,
+        "width": 662,
+        "height": 660,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "58c9ed6a2baa4765",
   "lastOpenFiles": [
-    "Untitled.md",
     "BTech/S6/ElectroMagnetics/Module 1.md",
     "Projects/Smart-Locker/Flutter app.canvas",
     "Projects/Smart-Locker/Smart Locker.md",
@@ -219,6 +268,7 @@
     "Projects/Ethical/Documentations/Prerequisites/Environment.md",
     "Projects/Ethical/Documentations/Basics/prerequisites.md",
     "Projects/Ethical/Documentations/Basics/Reconnaissance.md",
+    "Projects/Ethical/Documentations/Basics/README.md",
     "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas"
   ]
 }

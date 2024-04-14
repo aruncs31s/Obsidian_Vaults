@@ -8,7 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64bdd6048d6c7bb5",
+            "id": "923ba199aa769aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/LDR Sensor.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37aa1e865309246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Test/playground.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2754f57055883c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +47,7 @@
             }
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,13 +161,26 @@
               "type": "code-execute-manage-executors",
               "state": {}
             }
+          },
+          {
+            "id": "f87887343e01070e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BTech/S6/ElectroMagnetics/Module 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +194,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64bdd6048d6c7bb5",
+  "active": "a2754f57055883c9",
   "lastOpenFiles": [
+    "Maths/Integration.md",
+    "Math/Integration.md",
+    "Math",
+    "BTech/S6/ElectroMagnetics/Curl.md",
+    "BTech/S6/ElectroMagnetics/Module 1.md",
     "BTech/S6/ElectroMagnetics/Module 1 1.md",
+    "BTech/S6/ElectroMagnetics/Electromagnetics.md",
+    "Coding/Arduino-ide.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Test/playground.md",
+    "templates/quadratic x.md",
+    "Embedded Systems/Files/Module 2/Serial Comm.md",
+    "templates/Note Template.md",
+    "templates/summary.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/LDR Sensor.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/esp32.md",
+    "BTech/S6/ElectroMagnetics/Divergence of a Vector.md",
+    "Quantum Mechanics/Gravitational Field.md",
+    "Quantum Mechanics",
     "Projects/Smart-Locker/Supabase.md",
     "Projects/Smart-Locker/Solenoid Lock.md",
     "Projects/Smart-Locker/Smart Locker.md",
@@ -186,24 +242,8 @@
     "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-0847/CVE-2022-0847-exploit.c",
     "Projects/Ethical Hacking/Documentations/Introduction/android-hacking/README.md",
     "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-26809/rcdump.py",
-    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-26809/README.md",
-    "Projects/Ethical Hacking/Documentations/Basics/Spoofing/README.md",
     "Projects/Ethical Hacking/Documentations/Basics/images/crunch2.png",
     "Projects/Ethical Hacking/Documentations/Basics/images/crunch",
-    "Projects/Ethical Hacking/Documentations/Basics/Password Generation/README.md",
-    "Projects/Ethical Hacking/Documentations/Basics/Crypto/gnupg.md",
-    "Projects/Ethical Hacking/Documentations/Basics/Crypto/arun-gpg.pub",
-    "Projects/Ethical Hacking/Documentations/Basics/Crypto/Cryptography.md",
-    "Projects/Ethical Hacking/Documentations/languages/python",
-    "Projects/Ethical Hacking/Documentations/languages/README.md",
-    "Projects/Ethical Hacking/Documentations/Vulnerabilities/Gofetch_apple_mx.md",
-    "Projects/Ethical Hacking/Documentations/Tools-Used/README.md",
-    "Projects/Ethical Hacking/Documentations/Prerequisites/README.md",
-    "Projects/Ethical Hacking/Documentations/Prerequisites/Linux.md",
-    "Projects/Ethical Hacking/Documentations/Prerequisites/Git.md",
-    "Projects/Ethical Hacking/Documentations/Prerequisites/Git_slides.md",
-    "Projects/Ethical Hacking/Documentations/Prerequisites/Environment.md",
-    "Projects/Ethical Hacking/Documentations/Introduction/README.md",
     "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas"
   ]
 }

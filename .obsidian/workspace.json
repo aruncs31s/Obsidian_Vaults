@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa817f9978088447",
+            "id": "923ba199aa769aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Digital Signal Processing.md",
+                "file": "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/LDR Sensor.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37aa1e865309246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Test/playground.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,32 +34,20 @@
             }
           },
           {
-            "id": "77ab83e4d9b5ca61",
+            "id": "a2754f57055883c9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
+                "file": "BTech/S6/ElectroMagnetics/Module 1.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "58c9ed6a2baa4765",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Linux/Obsidian/latexsheet-a4.pdf"
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,25 +122,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
+                "file": "BTech/S6/ElectroMagnetics/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d74abb4d93d2c6f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -161,15 +150,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTech/S5/Digital Signal Processing/Module 1.md"
+                "file": "BTech/S6/ElectroMagnetics/Module 1.md"
+              }
+            }
+          },
+          {
+            "id": "cb851c5f6cf99b81",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "f87887343e01070e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BTech/S6/ElectroMagnetics/Module 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,27 +194,56 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "77ab83e4d9b5ca61",
+  "active": "a2754f57055883c9",
   "lastOpenFiles": [
-    "BTech/S5/Digital Signal Processing/Digital Signal Processing.md",
-    "Linux/Obsidian/latexsheet-a4.pdf",
-    "BTech/S5/Digital Signal Processing/Module 1.md",
-    "Embedded Systems/Module 1.md",
-    "BTech/S5/Digital Signal Processing/DIGITAL SIGNAL PROCESSING.pdf",
-    "BTech/S6/ElectroMagnetics/EMT.md",
-    "BTech/S5/Analog and Digital Communicatio",
-    "BTech/S5/Digital Signal Processing",
-    "BTech/S5",
-    "BTech/S6",
-    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/().md",
-    "BTech/S6/ElectroMagnetics/coulomb's law.md",
+    "Maths/Integration.md",
+    "Math/Integration.md",
+    "Math",
+    "BTech/S6/ElectroMagnetics/Curl.md",
+    "BTech/S6/ElectroMagnetics/Module 1.md",
+    "BTech/S6/ElectroMagnetics/Module 1 1.md",
+    "BTech/S6/ElectroMagnetics/Electromagnetics.md",
+    "Coding/Arduino-ide.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Test/playground.md",
+    "templates/quadratic x.md",
+    "Embedded Systems/Files/Module 2/Serial Comm.md",
+    "templates/Note Template.md",
+    "templates/summary.md",
+    "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/Sensors/LDR Sensor.md",
     "Projects/Iot_based_smart_energy_management_system/Obsidian_Notes/ESP32/esp32.md",
-    "Books/The Subtle ART of Not Giving a fk.md",
-    "python/python.md",
-    "python/numpy.md",
-    "python/matlibplot.md",
-    "Projects/Projects.md",
-    "Projects/Iot_based_smart_energy_management_system/README.md",
-    "Projects/GCEK WiFi/GCEK WiFI.md"
+    "BTech/S6/ElectroMagnetics/Divergence of a Vector.md",
+    "Quantum Mechanics/Gravitational Field.md",
+    "Quantum Mechanics",
+    "Projects/Smart-Locker/Supabase.md",
+    "Projects/Smart-Locker/Solenoid Lock.md",
+    "Projects/Smart-Locker/Smart Locker.md",
+    "Projects/Smart-Locker/Smart Locker.canvas",
+    "Projects/Smart-Locker/Flutter app.canvas",
+    "Projects/Smart-Locker/Flutter APP.md",
+    "Projects/Smart-Locker/ESP32.md",
+    "Projects/Smart-Locker",
+    "Untitled.md",
+    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2024-3094/README.md",
+    "Projects/Ethical Hacking/Documentations/Vulnerabilities/files/gofetch.pdf",
+    "Projects/Ethical Hacking/Documentations/languages/python/README.md",
+    "Projects/Ethical Hacking/Documentations/languages/images/pwd.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/nano2.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/nano.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/multiple-mkdir.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/mkdir.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/ls-mkdir.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/echo ~.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/echo $HOME.png",
+    "Projects/Ethical Hacking/Documentations/languages/images/cd-mkdir.png",
+    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-0847/compile.sh",
+    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-0847/check.sh",
+    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-0847/README.md",
+    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-0847/CVE-2022-0847-exploit2.c",
+    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-0847/CVE-2022-0847-exploit.c",
+    "Projects/Ethical Hacking/Documentations/Introduction/android-hacking/README.md",
+    "Projects/Ethical Hacking/Documentations/CVEs/CVE-2022-26809/rcdump.py",
+    "Projects/Ethical Hacking/Documentations/Basics/images/crunch2.png",
+    "Projects/Ethical Hacking/Documentations/Basics/images/crunch",
+    "Projects/TuxSemi/AI Chat Bot/ai chat bot.canvas"
   ]
 }

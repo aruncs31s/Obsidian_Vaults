@@ -9,5 +9,6 @@
   "obsidian-linter",
   "obsidian-autocomplete-plugin",
   "obsidian-latex-suite",
-  "obsidian-hider"
+  "obsidian-hider",
+  "better-export-pdf"
 ]

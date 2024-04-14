@@ -3,7 +3,7 @@
 ## Contents
 - [Syllabus](#syllabus)
 - 
-## Syllabus
+### Syllabus
 
 - Basic Elements of a DSP system
 - Typical DSP applications
@@ -18,6 +18,8 @@
 - Filtering of long data sequences,
 - overlap save and overlap add methods
 - Frequency Analysis of Signals using the DFT (concept only required)
+
+## Introduction
 
 ### Fourier Series
 The Fourier series is a mathematical tool used to ==represent a periodic function as the sum of simple sine and cosine functions==. It is named after Jean-Baptiste Joseph Fourier, who introduced the concept in the early 19th century. The Fourier series is particularly useful for ==analyzing signals that are periodic in nature==.
@@ -41,3 +43,25 @@ $x(t)$ has period T and $\omega_0 = {2 \pi \over T}$
 
 
 ### Fourier Transform
+The Fourier Transform is a mathematical technique used in signal processing and image analysis, among other fields, ==to transform a function of time (a signl) into a function of frequency==
+
+$$
+F(\omega) = \int_{-\infty}^{\infty} f(t) e^{-j\omega t} dt\
+$$
+where 
+- $F(\omega)$ Fourier transform coefficient of $f(t)$
+- $\omega$ is the Frequency
+
+> [!NOTE] FT
+> The Fourier Transform decomposes a signal into its constituent
+ frequencies,  allowing for the analysis of the signal's frequency
+ components 
+#### Inverse Fourier Transform
+
+$$
+f(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} F(\omega) e^{j\omega t} d
+\omega\
+$$
+
+
+

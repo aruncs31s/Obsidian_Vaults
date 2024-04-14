@@ -22,7 +22,7 @@ Created : 2024-04-10 16:43
 | MINI PROJECT | T     |                                                                                                |        |     |
 
 
-- [[BTech/S6/ElectroMagnetics/EMT|Electromagnetics]]
+- [[BTech/S6/ElectroMagnetics/Electromagnetics|Electromagnetics]]
 - 
 - 
 #### Subjects
